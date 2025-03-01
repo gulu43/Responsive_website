@@ -638,7 +638,7 @@ body{
             display: grid;
             width: 87%;
             height: 40%;
-            border: 2px solid orangered;
+            /* border: 2px solid orangered; */
             /* justify-items: space-between; */
             padding: 4%;
             grid-template-columns: 50% 50%;
@@ -655,7 +655,7 @@ body{
             /* margin-left: 3%; */
         }
         #img_4{
-            border: 1px solid palegreen;
+            /* border: 1px solid palegreen; */
 
             height: 50%;
             width:  auto;
